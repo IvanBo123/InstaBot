@@ -3,7 +3,7 @@ from telebot import types
 from instaparse import InstaParse as IP
 
 # 🔑 Вставь сюда токен, который дал @BotFather
-API_TOKEN = "8488922008:AAEhAxpTh4A2zqC7854pcXio-AXHP30CXpM"
+API_TOKEN = ""
 
 bot = telebot.TeleBot(API_TOKEN)
 
